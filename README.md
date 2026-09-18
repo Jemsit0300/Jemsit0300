@@ -6,18 +6,18 @@
 
 <br>
 
-I build multilingual, data-driven REST APIs with **Django** and **Django REST Framework**, and take them all the way to production with **PostgreSQL**, **Nginx**, and **Gunicorn**.
+### About
 
-<br>
+I build multilingual, data-driven REST APIs with **Django** and **Django REST Framework**, and take them all the way to production with **PostgreSQL**, **Nginx**, and **Gunicorn** — owning each project end to end, from data modeling to deployment.
 
 <table>
-<tr><td><b>Currently</b></td><td>Backend systems at Oguzhan University — academic management platform</td></tr>
+<tr><td width="140"><b>Currently</b></td><td>Backend systems at Oguzhan University — academic management platform</td></tr>
 <tr><td><b>Focus</b></td><td>API design, database optimization, role-based authentication</td></tr>
 <tr><td><b>Based in</b></td><td>Turkmenistan</td></tr>
 <tr><td><b>Email</b></td><td><a href="mailto:jemshitbahadurow3@gmail.com">jemshitbahadurow3@gmail.com</a></td></tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:15171C&height=3" width="100%"/>
 
 ### Tech Stack
 
@@ -34,20 +34,20 @@ I build multilingual, data-driven REST APIs with **Django** and **Django REST Fr
 <img src="https://img.shields.io/badge/-Gunicorn-D97757?style=flat-square" height="26"/>
 </p>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:15171C&height=3" width="100%"/>
 
 ### Featured Projects
 
 **Academic Management System** — *Production*
-Backend and REST APIs centralizing teacher journals, student grading, and institutional workflows for admin/teacher/student roles, with optimized PostgreSQL queries.
+Backend and REST APIs centralizing teacher journals, student grading, and institutional workflows for admin/teacher/student roles, with optimized PostgreSQL queries. Built collaboratively via Git/GitHub feature branches and pull requests.
 
 **Tour Agency Backend** — *Production*
-REST APIs for tour packages and bookings, multilingual content via Django Model Translation, custom Django Admin, deployed on Nginx + Gunicorn + PostgreSQL.
+REST APIs for tour packages and bookings, multilingual content via Django Model Translation, custom Django Admin panel, deployed on Nginx + Gunicorn + PostgreSQL.
 → [syyahathyzmatlary.com](https://syyahathyzmatlary.com/)
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:15171C&height=3" width="100%"/>
 
-### GitHub Stats
+### GitHub
 
 <p>
 <img src="https://img.shields.io/github/followers/Jemsit0300?style=flat-square&label=Followers&color=15171C&labelColor=15171C" height="26"/>
@@ -59,8 +59,10 @@ REST APIs for tour packages and bookings, multilingual content via Django Model 
 
 <div align="center">
 
-<a href="mailto:jemshitbahadurow3@gmail.com"><img src="https://img.shields.io/badge/-Email-15171C?style=for-the-badge" /></a>
-<a href="https://github.com/Jemsit0300"><img src="https://img.shields.io/badge/-GitHub-D97757?style=for-the-badge" /></a>
+<a href="mailto:jemshitbahadurow3@gmail.com"><img src="https://img.shields.io/badge/-Email-15171C?style=for-the-badge"/></a>
+<a href="https://github.com/Jemsit0300"><img src="https://img.shields.io/badge/-GitHub-D97757?style=for-the-badge"/></a>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:D97757,100:15171C&height=90&section=footer" width="100%"/>
 
