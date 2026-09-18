@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:151413,100:D97757&height=170&section=header&text=Jemshit%20Bahadurow&fontSize=40&fontColor=ffffff&fontAlignY=50&desc=Backend%20Developer%20%E2%80%94%20Python%20%2F%20Django%20%2F%20DRF%20%2F%20PostgreSQL&descSize=15&descAlignY=68&descColor=221f1d" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:15171C,100:D97757&height=170&section=header&text=Jemshit%20Bahadurow&fontSize=40&fontColor=ffffff&fontAlignY=50&desc=Backend%20Developer%20%E2%80%94%20Python%20%2F%20Django%20%2F%20DRF%20%2F%20PostgreSQL&descSize=15&descAlignY=68&descColor=F2D9CC" width="100%"/>
 
 </div>
 
@@ -23,22 +23,22 @@ I build multilingual, data-driven REST APIs with **Django** and **Django REST Fr
 ### Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/-Python-15171C?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/-Django-15171C?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/-Django%20REST%20Framework-15171C?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-15171C?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/-SQL-15171C?style=flat-square" height="26"/>
+<img src="https://img.shields.io/badge/Python-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Django-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/PostgreSQL-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/SQL-D97757?style=flat-square&logoColor=white" height="26"/>
 <br>
-<img src="https://img.shields.io/badge/-Git%20%26%20GitHub-D97757?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/-Postman-D97757?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/-Nginx-D97757?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/-Gunicorn-D97757?style=flat-square" height="26"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Postman-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Nginx-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Gunicorn-D97757?style=flat-square&logoColor=white" height="26"/>
 <br>
-<img src="https://img.shields.io/badge/-Ubuntu%20%2F%20Linux-15171C?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/-Docker-15171C?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/-Docker%20Compose-15171C?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/-SSH%20%26%20Server%20Admin-15171C?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/-Reverse%20Proxy%20%2F%20Load%20Balancing-15171C?style=flat-square" height="26"/>
+<img src="https://img.shields.io/badge/Ubuntu%20%2F%20Linux-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Docker-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Docker%20Compose-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/SSH%20%26%20Server%20Admin-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Reverse%20Proxy%20%2F%20Load%20Balancing-D97757?style=flat-square&logoColor=white" height="26"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:15171C&height=3" width="100%"/>
@@ -57,17 +57,17 @@ REST APIs for tour packages and bookings, multilingual content via Django Model 
 ### GitHub
 
 <p>
-<img src="https://img.shields.io/github/followers/Jemsit0300?style=flat-square&label=Followers&color=15171C&labelColor=15171C" height="26"/>
+<img src="https://img.shields.io/github/followers/Jemsit0300?style=flat-square&label=Followers&color=D97757&labelColor=15171C" height="26"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Jemsit0300&label=Public%20Repos&query=%24.public_repos&style=flat-square&color=D97757&labelColor=15171C" height="26"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Jemsit0300&label=Public%20Gists&query=%24.public_gists&style=flat-square&color=15171C&labelColor=15171C" height="26"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Jemsit0300&label=Public%20Gists&query=%24.public_gists&style=flat-square&color=D97757&labelColor=15171C" height="26"/>
 </p>
 
 <br>
 
 <div align="center">
 
-<a href="mailto:jemshitbahadurow3@gmail.com"><img src="https://img.shields.io/badge/-Email-15171C?style=for-the-badge"/></a>
-<a href="https://github.com/Jemsit0300"><img src="https://img.shields.io/badge/-GitHub-D97757?style=for-the-badge"/></a>
+<a href="mailto:jemshitbahadurow3@gmail.com"><img src="https://img.shields.io/badge/Email-D97757?style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/Jemsit0300"><img src="https://img.shields.io/badge/GitHub-D97757?style=for-the-badge&logoColor=white"/></a>
 
 <br><br>
 
