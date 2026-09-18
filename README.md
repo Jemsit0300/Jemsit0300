@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:15171C,100:D97757&height=170&section=header&text=Jemshit%20Bahadurow&fontSize=40&fontColor=ffffff&fontAlignY=50&desc=Backend%20Developer%20%E2%80%94%20Python%20%2F%20Django%20%2F%20DRF%20%2F%20PostgreSQL&descSize=15&descAlignY=68&descColor=F2D9CC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=15171C&height=170&section=header&text=Jemshit%20Bahadurow&fontSize=40&fontColor=ffffff&fontAlignY=50&desc=Backend%20Developer%20%E2%80%94%20Python%20%2F%20Django%20%2F%20DRF%20%2F%20PostgreSQL&descSize=15&descAlignY=68&descColor=D97757" width="100%"/>
 
 </div>
 
@@ -69,8 +69,6 @@ REST APIs for tour packages and bookings, multilingual content via Django Model 
 <a href="mailto:jemshitbahadurow3@gmail.com"><img src="https://img.shields.io/badge/Email-D97757?style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/Jemsit0300"><img src="https://img.shields.io/badge/GitHub-D97757?style=for-the-badge&logoColor=white"/></a>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:D97757,100:15171C&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=15171C&height=90&section=footer" width="100%"/>
 
 </div>
