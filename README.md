@@ -10,6 +10,10 @@ Backend Developer specialized in Python, Django, and Django REST Framework (DRF)
 
 Skilled in PostgreSQL database design and query optimization. Comfortable owning a project end-to-end — from data modeling and API design to production deployment with Nginx and Gunicorn.
 
+Tech Stack
+
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
 Technical Skills
 
 Backend: Python, Django, Django REST Framework (DRF)
