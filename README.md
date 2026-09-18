@@ -40,19 +40,19 @@ I build multilingual, data-driven REST APIs with **Django** and **Django REST Fr
 
 **Academic Management System** — *Production*
 Backend and REST APIs centralizing teacher journals, student grading, and institutional workflows for admin/teacher/student roles, with optimized PostgreSQL queries.
-→ [Live Demo](http://217.174.233.210:20001/)
 
 **Tour Agency Backend** — *Production*
 REST APIs for tour packages and bookings, multilingual content via Django Model Translation, custom Django Admin, deployed on Nginx + Gunicorn + PostgreSQL.
-→ [Live Demo](http://43.164.133.148/)
+→ [syyahathyzmatlary.com](https://syyahathyzmatlary.com/)
 
 <br>
 
 ### GitHub Stats
 
 <p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Jemsit0300&show_icons=true&hide_border=true&bg_color=00000000&title_color=D97757&icon_color=D97757&text_color=57606a&hide_rank=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemsit0300&layout=compact&hide_border=true&bg_color=00000000&title_color=D97757&text_color=57606a" />
+<img src="https://img.shields.io/github/followers/Jemsit0300?style=flat-square&label=Followers&color=15171C&labelColor=15171C" height="26"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Jemsit0300&label=Public%20Repos&query=%24.public_repos&style=flat-square&color=D97757&labelColor=15171C" height="26"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Jemsit0300&label=Public%20Gists&query=%24.public_gists&style=flat-square&color=15171C&labelColor=15171C" height="26"/>
 </p>
 
 <br>
