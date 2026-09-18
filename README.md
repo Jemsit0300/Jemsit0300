@@ -22,23 +22,30 @@ I build multilingual, data-driven REST APIs with **Django** and **Django REST Fr
 
 ### Tech Stack
 
+**Backend & API**
 <p>
 <img src="https://img.shields.io/badge/Python-D97757?style=flat-square&logoColor=white" height="26"/>
 <img src="https://img.shields.io/badge/Django-D97757?style=flat-square&logoColor=white" height="26"/>
 <img src="https://img.shields.io/badge/Django%20REST%20Framework-D97757?style=flat-square&logoColor=white" height="26"/>
+</p>
+
+**Database**
+<p>
 <img src="https://img.shields.io/badge/PostgreSQL-D97757?style=flat-square&logoColor=white" height="26"/>
 <img src="https://img.shields.io/badge/SQL-D97757?style=flat-square&logoColor=white" height="26"/>
-<br>
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-D97757?style=flat-square&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Postman-D97757?style=flat-square&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Nginx-D97757?style=flat-square&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Gunicorn-D97757?style=flat-square&logoColor=white" height="26"/>
-<br>
+</p>
+
+**Infrastructure & Tools**
+<p>
 <img src="https://img.shields.io/badge/Ubuntu%20%2F%20Linux-D97757?style=flat-square&logoColor=white" height="26"/>
 <img src="https://img.shields.io/badge/Docker-D97757?style=flat-square&logoColor=white" height="26"/>
 <img src="https://img.shields.io/badge/Docker%20Compose-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Nginx-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Gunicorn-D97757?style=flat-square&logoColor=white" height="26"/>
 <img src="https://img.shields.io/badge/SSH%20%26%20Server%20Admin-D97757?style=flat-square&logoColor=white" height="26"/>
 <img src="https://img.shields.io/badge/Reverse%20Proxy%20%2F%20Load%20Balancing-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-D97757?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Postman-D97757?style=flat-square&logoColor=white" height="26"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:15171C&height=3" width="100%"/>
@@ -69,6 +76,6 @@ REST APIs for tour packages and bookings, multilingual content via Django Model 
 <a href="mailto:jemshitbahadurow3@gmail.com"><img src="https://img.shields.io/badge/Email-D97757?style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/Jemsit0300"><img src="https://img.shields.io/badge/GitHub-D97757?style=for-the-badge&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=15171C&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=15171C&height=90&section=footer&text=Thanks%20for%20visiting&fontSize=18&fontColor=D97757&fontAlignY=75" width="100%"/>
 
 </div>
