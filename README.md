@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=15171C&height=170&section=header&text=Jemshit%20Bahadurow&fontSize=42&fontColor=ffffff&fontAlignY=48&fontFamily=Poppins&desc=Backend%20Developer%20%E2%80%94%20Python%20%2F%20Django%20%2F%20DRF%20%2F%20PostgreSQL&descSize=16&descAlignY=68&descColor=D97757" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:15171C,60:15171C,100:D97757&height=170&section=header&text=Jemshit%20Bahadurow&fontSize=42&fontColor=ffffff&fontAlignY=48&fontFamily=Poppins&desc=Backend%20Developer%20%E2%80%94%20Python%20%2F%20Django%20%2F%20DRF%20%2F%20PostgreSQL&descSize=16&descAlignY=68&descColor=F2D9CC" width="100%"/>
 
 </div>
 
@@ -18,7 +18,7 @@ I build multilingual, data-driven REST APIs with **Django** and **Django REST Fr
 <tr><td><b>Email</b></td><td><a href="mailto:jemshitbahadurow3@gmail.com">jemshitbahadurow3@gmail.com</a></td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:15171C&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:15171C&height=5" width="100%"/>
 
 ### Tech Stack
 
@@ -48,7 +48,7 @@ I build multilingual, data-driven REST APIs with **Django** and **Django REST Fr
 <img src="https://img.shields.io/badge/Postman-D97757?style=flat-square&logoColor=white" height="26"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:15171C&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:15171C&height=5" width="100%"/>
 
 ### Featured Projects
 
@@ -59,7 +59,7 @@ Backend and REST APIs centralizing teacher journals, student grading, and instit
 REST APIs for tour packages and bookings, multilingual content via Django Model Translation, custom Django Admin panel, deployed on Nginx + Gunicorn + PostgreSQL.
 → [syyahathyzmatlary.com](https://syyahathyzmatlary.com/)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:15171C&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:15171C&height=5" width="100%"/>
 
 ### GitHub
 
@@ -76,6 +76,6 @@ REST APIs for tour packages and bookings, multilingual content via Django Model 
 <a href="mailto:jemshitbahadurow3@gmail.com"><img src="https://img.shields.io/badge/Email-D97757?style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/Jemsit0300"><img src="https://img.shields.io/badge/GitHub-D97757?style=for-the-badge&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=15171C&height=65&section=footer&text=Thanks%20for%20visiting&fontSize=16&fontColor=D97757&fontAlignY=55&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:D97757,40:15171C,100:15171C&height=65&section=footer&text=Thanks%20for%20visiting&fontSize=16&fontColor=F2D9CC&fontAlignY=55&fontFamily=Poppins" width="100%"/>
 
 </div>
