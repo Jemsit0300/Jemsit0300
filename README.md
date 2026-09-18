@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff5500,100:D97757&height=170&section=header&text=Jemshit%20Bahadurow&fontSize=40&fontColor=ffffff&fontAlignY=50&desc=Backend%20Developer%20%E2%80%94%20Python%20%2F%20Django%20%2F%20DRF%20%2F%20PostgreSQL&descSize=15&descAlignY=68&descColor=F2D9CC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:151413,100:D97757&height=170&section=header&text=Jemshit%20Bahadurow&fontSize=40&fontColor=ffffff&fontAlignY=50&desc=Backend%20Developer%20%E2%80%94%20Python%20%2F%20Django%20%2F%20DRF%20%2F%20PostgreSQL&descSize=15&descAlignY=68&descColor=F2D9CC" width="100%"/>
 
 </div>
 
